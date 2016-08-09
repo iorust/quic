@@ -1,0 +1,11 @@
+[package]
+name = "quic"
+version = "0.0.1"
+authors = ["Qing Yan <admin@zensh.com>"]
+description = "QUIC (Quick UDP Internet Connection) in Rust."
+documentation = "https://iorust.github.io/quic/quic"
+homepage = "https://github.com/iorust/quic"
+repository = "https://github.com/iorust/quic.git"
+readme = "README.md"
+keywords = ["quic", "udp", "pipelining", "protocol", "stream"]
+license = "MIT/Apache-2.0"
